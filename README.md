@@ -4,8 +4,8 @@ How to INSERT,SELECT and ContextMenu Delete From SQlite database in android. Fin
 
 #### INSERT DATA
 
-[](/demos/InsertData.PNG)
+![](/demos/InsertData.PNG)
 
 #### ContextMenu
 
-[](/demos/ContextMenu.PNG)
+![](/demos/ContextMenu.PNG)
